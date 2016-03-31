@@ -1,1 +1,1 @@
-# Simple-Automated-Optical-Inspection
+# Simple Automated Optical Inspection
