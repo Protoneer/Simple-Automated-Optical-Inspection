@@ -1,5 +1,6 @@
 Minimum Viable Product 
 
+## Stage 1
 *	No image recognition. 
 *	Board will be mounted at a fixed position.
 * Job file with list of pre-saved coordinates.
