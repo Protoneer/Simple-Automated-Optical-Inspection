@@ -8,6 +8,8 @@ Minimum Viable Product
 * After the photo shoot check the photos and list incorrect items for marking.
 
 ## Later Stage Ideas
+* Add offset. Allowing multiple panels to be tested from the same component positions.
+
 * Use fids to align panel and for sub-panels.
 * Use hardware position file to centre on components.
 * Computer vision
